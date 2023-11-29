@@ -7,3 +7,6 @@ font-family: "poppins",sans-serif;
 }
 body{
   background: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png)
+  backgound-position: center;
+  background-size: cover;
+}
